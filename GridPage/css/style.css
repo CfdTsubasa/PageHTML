@@ -169,3 +169,25 @@ a:link,a:visited,a:hover,a:active{
 .nav-item a:hover::after{
     width: 100%;
 }
+
+/* .item-s > a::before{
+    content:'';
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    left: 8px;
+    display: block;
+    height: 109px;
+    background: rgba(0,0,0,0.5);
+}
+
+.item-m > a::before{
+    content:'';
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    left: 8px;
+    display: block;
+    height: 146px;
+    background: rgba(0,0,0,0.5);
+} */
